@@ -27,4 +27,25 @@ A 'string' is a sequence of characters, like ""Hello World"", ""I am a string"",
 A 'float' is a decimal number, like 1.234, 5.678, and 9.101112. 
 A 'bool' is a true or false value, like true and false. ";
 
+
+    public static string Variabler =    
+@"...
+Variabler i programmering er navngivne beholdere til at gemme data som tal, tekst eller sand/falsk-værdier"
+"De hjælper med at organisere og behandle information, og vi kan ændre deres værdi."
+"Variabler har omfang og levetid, der definerer, hvor de er synlige i koden, og hvor længe de eksisterer i hukommelsen."
+"De gør koden mere struktureret og fleksibel.";
+
+
+
+    public static string Datatyper =    
+@"...
+Datatyper er også meget vigtige. ";
+
+
+
+    public static string Kapitel3 =    
+@"...
+dette er et kapitel. ";
+
+
 }
