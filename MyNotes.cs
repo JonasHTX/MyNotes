@@ -30,10 +30,10 @@ A 'bool' is a true or false value, like true and false. ";
 
     public static string Variabler =    
 @"...
-Variabler i programmering er navngivne beholdere til at gemme data som tal, tekst eller sand/falsk-værdier"
-"De hjælper med at organisere og behandle information, og vi kan ændre deres værdi."
-"Variabler har omfang og levetid, der definerer, hvor de er synlige i koden, og hvor længe de eksisterer i hukommelsen."
-"De gør koden mere struktureret og fleksibel.";
+Variabler i programmering er navngivne beholdere til at gemme data som tal, tekst eller sand/falsk-værdier
+De hjælper med at organisere og behandle information, og vi kan ændre deres værdi.
+Variabler har omfang og levetid, der definerer, hvor de er synlige i koden, og hvor længe de eksisterer i hukommelsen.
+De gør koden mere struktureret og fleksibel.";
 
 
 
@@ -43,9 +43,16 @@ Datatyper er også meget vigtige. ";
 
 
 
-    public static string Kapitel3 =    
+    public static string Betingelser =    
 @"...
-dette er et kapitel. ";
+Betingelser i C# bruges til at kontrollere programmets adfærd ved at evaluere forskellige forhold eller situationer. De giver dig mulighed for at træffe beslutninger i dit program baseret på visse kriterier.
+De mest almindelige typer af betingelser i C# inkluderer
+
+""if"" Bruges til at udføre en bestemt handling eller sekvens af handlinger, hvis en given betingelse er opfyldt.
+""else"" Anvendes sammen med ""if"" til at definere, hvad der skal ske, hvis betingelsen i ""if"" ikke er opfyldt.
+""else if"" Bruges til at evaluere flere betingelser i rækkefølge og udføre den relevante handling for den første betingelse, der er sand.
+""switch"" Dette giver en måde at vælge en handling fra flere mulige handlinger baseret på værdien af en variabel eller et udtryk.
+Betingelser er afgørende for at gøre din C#-kode fleksibel og i stand til at håndtere forskellige scenarier, hvilket gør det muligt at opbygge dynamiske og kontrollerede programmer. ";
 
 
 }
