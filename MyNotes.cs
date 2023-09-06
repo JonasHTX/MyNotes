@@ -30,16 +30,25 @@ A 'bool' is a true or false value, like true and false. ";
 
     public static string Variabler =    
 @"...
-Variabler i programmering er navngivne beholdere til at gemme data som tal, tekst eller sand/falsk-værdier
-De hjælper med at organisere og behandle information, og vi kan ændre deres værdi.
-Variabler har omfang og levetid, der definerer, hvor de er synlige i koden, og hvor længe de eksisterer i hukommelsen.
-De gør koden mere struktureret og fleksibel.";
+Variabler i C# er grundlæggende byggesten i programmering, der fungerer som beholdere til at gemme og håndtere data.
+De er defineret med en bestemt datatypen, der angiver, hvilken type information de kan indeholde, såsom heltal ""int"", decimaltal ""float"" eller ""double"", tekst ""string"" eller brugerdefinerede datatyper.
+Når du arbejder med variabler, kan du deklarere dem ved at angive deres datatypen og eventuelt initialisere dem med en startværdi.
+Dette giver kontrol over, hvordan variablerne håndteres og bruges i programmet.
+Variabler er også nødvendige for at arbejde med mere komplekse datastrukturer som arrays, der gemmer en række værdier af samme type, eller klasser, 
+der definerer objekter med egenskaber og metoder. De tjener som grundlaget for at opbygge effektive og strukturerede programmer, der kan håndtere og organisere data på en måde, der er let at forstå og vedligeholde.";
 
 
 
     public static string Datatyper =    
 @"...
-Datatyper er også meget vigtige. ";
+Datatyper i C# er vigtige byggesten i programmeringssproget, der bruges til at definere, hvilken type data en variabel kan indeholde.
+C# har to hovedkategorier af datatyper:
+
+Primitiv datatyper: Disse datatyper repræsenterer grundlæggende værdier som heltal, decimaltal, karakterer og sand/falsk-værdier. Nogle eksempler inkluderer ""int"" for heltal, ""float"" for decimaltal med flydende punkt, ""char"" for en enkelt karakter og ""bool"" for sand eller falsk.
+
+Sammensatte datatyper: Disse datatyper bruges til at oprette komplekse strukturer og organisere data. De omfatter ""arrays"" 
+til opbevaring af flere elementer af samme type, ""klasser"" til at definere objekter med egenskaber og metoder, ""structs"" 
+til at oprette letvægtsværdityper, og ""interfaces"" til at definere kontrakter for klasser. ";
 
 
 
